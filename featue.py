@@ -1,0 +1,4 @@
+print
+asdas
+asda
+dasd
